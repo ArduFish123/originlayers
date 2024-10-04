@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"originlayer:slow_falling",
+		"originlayer:fresh_air",
+		"originlayer:like_air",
+		"originlayer:tailwind",
+		"originlayer:lay_eggs",
+		"originlayer:vegetarian"
+	],
+	"icon": {
+		"id": "minecraft:feather"
+	},
+	"order": 0,
+	"impact": 1
+}

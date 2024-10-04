@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"originlayer:shulker_inventory",
+		"originlayer:natural_armor",
+		"originlayer:strong_arms",
+		"originlayer:strong_arms_break_speed",
+		"originlayer:no_shield",
+		"originlayer:more_exhaustion"
+	],
+	"icon": {
+		"id": "minecraft:shulker_shell"
+	},
+	"order": 4,
+	"impact": 1
+}

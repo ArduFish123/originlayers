@@ -1,0 +1,26 @@
+{
+	"replace": false,
+	"order": 1,
+	"enabled": true,
+	"origins": [
+		"originlayer:arachnid",
+		"originlayer:avian",
+		"originlayer:blazeborn",
+		"originlayer:elytrian",
+		"originlayer:enderian",
+		"originlayer:feline",
+		"originlayer:human",
+		"originlayer:merling",
+		"originlayer:phantom",
+		"originlayer:shulk"
+	],
+	"allow_random": true,
+	"exclude_random": [
+		"originlayer:human"
+	],
+	"allow_random_unchoosable": false,
+	"hidden": false,
+	"name": "Secondary Origin",
+    "missing_name": "None",
+    "missing_description": "You currently don't have a secondary Origin selected."
+}

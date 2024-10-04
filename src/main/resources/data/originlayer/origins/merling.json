@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"originlayer:water_breathing",
+		"originlayer:water_vision",
+		"originlayer:aqua_affinity",
+		"originlayer:swim_speed",
+		"originlayer:like_water",
+		"originlayer:aquatic",
+		"originlayer:conduit_power_on_land",
+		"originlayer:air_from_potions"
+	],
+	"icon": {
+		"id": "minecraft:cod"
+	},
+	"order": 0,
+	"impact": 3
+}

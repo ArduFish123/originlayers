@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "originlayers",
+  "version": "${version}",
+  "name": "originlayers",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "FPL",
+  "icon": "assets/originlayer/icon.png",
+  "environment": "*",
+  "entrypoints": {
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": ">=1.21",
+    "origins": "*"
+  }
+}

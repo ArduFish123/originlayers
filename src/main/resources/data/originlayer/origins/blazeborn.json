@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"originlayer:fire_immunity",
+		"originlayer:nether_spawn",
+		"originlayer:burning_wrath",
+		"originlayer:hotblooded",
+		"originlayer:water_vulnerability",
+		"originlayer:flame_particles",
+		"originlayer:damage_from_snowballs",
+		"originlayer:damage_from_potions"
+	],
+	"icon": {
+		"id": "minecraft:blaze_powder"
+	},
+	"order": 1,
+	"impact": 3
+}

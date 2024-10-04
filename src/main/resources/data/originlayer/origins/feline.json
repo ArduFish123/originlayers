@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"originlayer:fall_immunity",
+		"originlayer:sprint_jump",
+		"originlayer:velvet_paws",
+		"originlayer:nine_lives",
+		"originlayer:weak_arms",
+		"originlayer:scare_creepers",
+		"originlayer:cat_vision"
+	],
+	"icon": {
+		"id": "minecraft:orange_wool"
+	},
+	"order": 0,
+	"impact": 2
+}
